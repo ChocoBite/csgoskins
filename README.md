@@ -1,2 +1,0 @@
-# csgoskins
-CsGoSiteTest
